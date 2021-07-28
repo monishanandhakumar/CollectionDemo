@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day2\\PrjSecondApplication\\PrjSecondApplication\\PrjSecondApplication.csproj",
+      "projectUniqueName": "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day2\\Demo\\PrjSecondApplication\\PrjSecondApplication\\PrjSecondApplication.csproj",
       "projectName": "PrjSecondApplication",
-      "projectPath": "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day2\\PrjSecondApplication\\PrjSecondApplication\\PrjSecondApplication.csproj",
+      "projectPath": "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day2\\Demo\\PrjSecondApplication\\PrjSecondApplication\\PrjSecondApplication.csproj",
       "packagesPath": "C:\\Users\\MonishaDevi\\.nuget\\packages\\",
-      "outputPath": "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day2\\PrjSecondApplication\\PrjSecondApplication\\obj\\",
+      "outputPath": "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day2\\Demo\\PrjSecondApplication\\PrjSecondApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day2\\PrjSecondApplication\\CollectionEg\\CollectionEg.csproj",
+      "projectUniqueName": "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day2\\Demo\\PrjSecondApplication\\CollectionEg\\CollectionEg.csproj",
       "projectName": "CollectionEg",
-      "projectPath": "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day2\\PrjSecondApplication\\CollectionEg\\CollectionEg.csproj",
+      "projectPath": "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day2\\Demo\\PrjSecondApplication\\CollectionEg\\CollectionEg.csproj",
       "packagesPath": "C:\\Users\\MonishaDevi\\.nuget\\packages\\",
-      "outputPath": "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day2\\PrjSecondApplication\\CollectionEg\\obj\\",
+      "outputPath": "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day2\\Demo\\PrjSecondApplication\\CollectionEg\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
